@@ -13,8 +13,4 @@ Limitations:
 You are responsible to interpret and understand the editing history and its meaning. While the software may highlight some potential issues, there may be other explanations, including transferring from other software or issues with the time and date.
 This may not detect text written by or obfuscated by AI agents posing as individuals and typing in real time
 
-AI Declaration: Python programs for this software were written in tandem with Microsoft Co-Pilot (institutional)
-
-Complied Mac binary: https://dbqedu-my.sharepoint.com/:u:/g/personal/dtann_dbq_edu/IQBkEvc-S_UcTKFRDzxANR3_AVVjd7mPvD1180dhlUXBR3s?e=izoVoR
-
-Compiled PC/AMD64 Windows binary: https://dbqedu-my.sharepoint.com/:u:/g/personal/dtann_dbq_edu/IQAUTJFoe_LoQ4s_r-T7uy5iAWkCua6fWektdrCzY7gaKEE?e=C7SoVP
+_AI Declaration: Python programs for this software were written in tandem with Microsoft Co-Pilot (institutional)_
