@@ -4,6 +4,9 @@ As you may know, other online text-editing suites allow individuals to view the 
 
 Compiled binaries for Windows (x86/AMD64) and Mac OS included in .zip format as well as full source code
 
+<img width="1480" height="972" alt="Screenshot 2026-05-11 at 12 55 28 PM" src="https://github.com/user-attachments/assets/c315ad44-462a-4577-82c6-80f85fb78313" />
+
+
 Features:
 Generates .html record file showing edits
 Flags POTENTIAL formatting, copy/paste, and other issues that MAY indicate issues with academic integrity
